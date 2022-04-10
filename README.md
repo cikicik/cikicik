@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cikicik
-- 👀 I’m interested in mobile and DAO
+- 👀 I’m interested in mobile apps and DAO development
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on NFT and DAO creation/management
 - 📫 How to reach me find me on Discord @Nitnot#4516
